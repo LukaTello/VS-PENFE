@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Penfe_Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PENFEANGRYEND0000" x="0" y="0" width="432" height="611"/>
+	<SubTexture name="PENFEANGRYLOOP0000" x="437" y="0" width="431" height="620" frameX="-1" frameY="0" frameWidth="432" frameHeight="620"/>
+	<SubTexture name="PENFEANGRYLOOP0001" x="873" y="0" width="431" height="620" frameX="-1" frameY="0" frameWidth="432" frameHeight="620"/>
+	<SubTexture name="PENFEANGRYLOOP0002" x="1309" y="0" width="432" height="616" frameX="0" frameY="-4" frameWidth="432" frameHeight="620"/>
+	<SubTexture name="PENFEANGRYLOOP0003" x="1309" y="0" width="432" height="616" frameX="0" frameY="-4" frameWidth="432" frameHeight="620"/>
+	<SubTexture name="PENFEANGRYLOOP0004" x="1746" y="0" width="432" height="611" frameX="0" frameY="-9" frameWidth="432" frameHeight="620"/>
+	<SubTexture name="PENFEANGRYLOOP0005" x="1746" y="0" width="432" height="611" frameX="0" frameY="-9" frameWidth="432" frameHeight="620"/>
+	<SubTexture name="PENFEFEARLOOP0000" x="2183" y="0" width="431" height="620" frameX="-1" frameY="0" frameWidth="432" frameHeight="620"/>
+	<SubTexture name="PENFEFEARLOOP0001" x="2619" y="0" width="431" height="620" frameX="-1" frameY="0" frameWidth="432" frameHeight="620"/>
+	<SubTexture name="PENFEFEARLOOP0002" x="3055" y="0" width="432" height="616" frameX="0" frameY="-4" frameWidth="432" frameHeight="620"/>
+	<SubTexture name="PENFEFEARLOOP0003" x="3492" y="0" width="432" height="616" frameX="0" frameY="-4" frameWidth="432" frameHeight="620"/>
+	<SubTexture name="PENFEFEARLOOP0004" x="0" y="625" width="432" height="611" frameX="0" frameY="-9" frameWidth="432" frameHeight="620"/>
+	<SubTexture name="PENFEFEARLOOP0005" x="0" y="625" width="432" height="611" frameX="0" frameY="-9" frameWidth="432" frameHeight="620"/>
+	<SubTexture name="PENFEFEARend0000" x="437" y="625" width="432" height="611"/>
+	<SubTexture name="PENFESADEND0000" x="874" y="625" width="356" height="611"/>
+	<SubTexture name="PENFESADLOOP0000" x="1235" y="625" width="356" height="620" frameX="-1" frameY="0" frameWidth="357" frameHeight="620"/>
+	<SubTexture name="PENFESADLOOP0001" x="1596" y="625" width="356" height="620" frameX="-1" frameY="0" frameWidth="357" frameHeight="620"/>
+	<SubTexture name="PENFESADLOOP0002" x="1957" y="625" width="357" height="616" frameX="0" frameY="-4" frameWidth="357" frameHeight="620"/>
+	<SubTexture name="PENFESADLOOP0003" x="1957" y="625" width="357" height="616" frameX="0" frameY="-4" frameWidth="357" frameHeight="620"/>
+	<SubTexture name="PENFESADLOOP0004" x="2319" y="625" width="356" height="611" frameX="0" frameY="-9" frameWidth="357" frameHeight="620"/>
+	<SubTexture name="PENFESADLOOP0005" x="2319" y="625" width="356" height="611" frameX="0" frameY="-9" frameWidth="357" frameHeight="620"/>
+	<SubTexture name="PENFESHOCKEDEND0000" x="2680" y="625" width="432" height="611"/>
+	<SubTexture name="PENFESHOCKEDLOOP0000" x="3117" y="625" width="431" height="620" frameX="-1" frameY="0" frameWidth="432" frameHeight="620"/>
+	<SubTexture name="PENFESHOCKEDLOOP0001" x="3553" y="625" width="431" height="620" frameX="-1" frameY="0" frameWidth="432" frameHeight="620"/>
+	<SubTexture name="PENFESHOCKEDLOOP0002" x="0" y="1250" width="432" height="616" frameX="0" frameY="-4" frameWidth="432" frameHeight="620"/>
+	<SubTexture name="PENFESHOCKEDLOOP0003" x="0" y="1250" width="432" height="616" frameX="0" frameY="-4" frameWidth="432" frameHeight="620"/>
+	<SubTexture name="PENFESHOCKEDLOOP0004" x="437" y="1250" width="432" height="611" frameX="0" frameY="-9" frameWidth="432" frameHeight="620"/>
+	<SubTexture name="PENFESHOCKEDLOOP0005" x="437" y="1250" width="432" height="611" frameX="0" frameY="-9" frameWidth="432" frameHeight="620"/>
+	<SubTexture name="PENFETALKEND0000" x="874" y="1250" width="432" height="611"/>
+	<SubTexture name="PENFETALKLOOP0000" x="1311" y="1250" width="431" height="620" frameX="-1" frameY="0" frameWidth="432" frameHeight="620"/>
+	<SubTexture name="PENFETALKLOOP0001" x="1747" y="1250" width="431" height="620" frameX="-1" frameY="0" frameWidth="432" frameHeight="620"/>
+	<SubTexture name="PENFETALKLOOP0002" x="2183" y="1250" width="432" height="616" frameX="0" frameY="-4" frameWidth="432" frameHeight="620"/>
+	<SubTexture name="PENFETALKLOOP0003" x="2620" y="1250" width="432" height="616" frameX="0" frameY="-4" frameWidth="432" frameHeight="620"/>
+	<SubTexture name="PENFETALKLOOP0004" x="3057" y="1250" width="432" height="611" frameX="0" frameY="-9" frameWidth="432" frameHeight="620"/>
+	<SubTexture name="PENFETALKLOOP0005" x="3057" y="1250" width="432" height="611" frameX="0" frameY="-9" frameWidth="432" frameHeight="620"/>
+</TextureAtlas>

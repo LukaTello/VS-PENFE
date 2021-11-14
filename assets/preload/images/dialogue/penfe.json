@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		120,
+		-50
+	],
+	"scale": 1,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				-1,
+				-5
+			],
+			"idle_offsets": [
+				-1,
+				-11
+			],
+			"loop_name": "PENFETALKLOOP",
+			"idle_name": "PENFETALKEND"
+		},
+		{
+			"loop_offsets": [
+				-1,
+				-5
+			],
+			"anim": "pissed",
+			"idle_offsets": [
+				-1,
+				-11
+			],
+			"loop_name": "PENFEANGRYLOOP",
+			"idle_name": "PENFEANGRYEND"
+		},
+		{
+			"loop_offsets": [
+				-1,
+				-5
+			],
+			"anim": "shocked",
+			"idle_offsets": [
+				-1,
+				-11
+			],
+			"loop_name": "PENFESHOCKEDLOOP",
+			"idle_name": "PENFESHOCKEDEND"
+		},
+		{
+			"loop_name": "PENFEFEARLOOP",
+			"idle_offsets": [
+				-1,
+				-11
+			],
+			"idle_name": "PENFEFEARend",
+			"anim": "fear",
+			"loop_offsets": [
+				-1,
+				-5
+			]
+		},
+		{
+			"loop_name": "PENFESADLOOP",
+			"idle_offsets": [
+				-1,
+				-11
+			],
+			"idle_name": "PENFESADEND",
+			"anim": "sad",
+			"loop_offsets": [
+				-1,
+				-5
+			]
+		}
+	],
+	"image": "Penfe_Dialogue"
+}

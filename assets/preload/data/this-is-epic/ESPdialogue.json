@@ -1,0 +1,95 @@
+{
+	"dialogue": [
+		{
+			"expression": "sad",
+			"text": "Esta bien... lo lograste... ganaste...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "penfe"
+		},
+		{
+			"expression": "sad",
+			"text": "Ya todos se fueron",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "penfe"
+		},
+		{
+			"expression": "sad",
+			"text": "Yo lo unico que queria eran amigos",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "penfe"
+		},
+		{
+			"expression": "sad",
+			"text": "Y esta era la unica forma",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "penfe"
+		},
+		{
+			"expression": "shocked",
+			"text": "Bep bo",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "sad",
+			"text": "Entiendo...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "penfe"
+		},
+		{
+			"expression": "sad",
+			"text": "Esa no era la manera, verdad?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "penfe"
+		},
+		{
+			"expression": "talk",
+			"text": "Beee",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "sad",
+			"text": "Bueno, igual rapeas muy bien",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "penfe"
+		},
+		{
+			"expression": "talk",
+			"text": "A la mierda todos los demas, ellos se lo pierden",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "penfe"
+		},
+		{
+			"expression": "talk",
+			"text": "Asi que hagamos que esta batalla sea un poco mas...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "penfe"
+		},
+		{
+			"expression": "talk",
+			"text": "EPICA",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "penfe"
+		},
+		{
+			"expression": "excited",
+			"text": "Beep!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

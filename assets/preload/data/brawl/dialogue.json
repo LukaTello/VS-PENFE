@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"expression": "excited",
+			"text": "Beep bop xddd",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shocked",
+			"text": "(oh no)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "penfe"
+		},
+		{
+			"expression": "fear",
+			"text": "H-hey friend, would you please calm down?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "penfe"
+		},
+		{
+			"expression": "fear",
+			"text": "We don't have to rap seriously",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "penfe"
+		},
+		{
+			"expression": "fear",
+			"text": "Y-you know, this is like a game and all, . r-right?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "penfe"
+		},
+		{
+			"expression": "fear",
+			"text": "The purpose is to let me win... D-do you . understand?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "penfe"
+		},
+		{
+			"expression": "pissed",
+			"text": "Beep beskonasnw1",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "fear",
+			"text": "Come on little friend, just let me win",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "penfe"
+		},
+		{
+			"expression": "fear",
+			"text": "(please)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "penfe"
+		}
+	]
+}

@@ -1,0 +1,12 @@
+stage
+spooky
+philly
+limo
+mall
+mallEvil
+school
+schoolEvil
+penfeday
+penfeafter
+penfenight
+penfedawn

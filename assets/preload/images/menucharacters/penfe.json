@@ -1,0 +1,10 @@
+{
+	"idle_anim": "penfe idle",
+	"confirm_anim": "penfe idle",
+	"position": [
+		-10,
+		-2
+	],
+	"scale": 1,
+	"image": "Menu_Penfe"
+}

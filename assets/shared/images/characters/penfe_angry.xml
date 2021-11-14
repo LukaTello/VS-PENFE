@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="penfe_angry.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="penfe angry idle0000" x="0" y="0" width="311" height="588" frameX="0" frameY="0" frameWidth="311" frameHeight="589"/>
+	<SubTexture name="penfe angry idle0001" x="316" y="0" width="309" height="583" frameX="-2" frameY="-6" frameWidth="311" frameHeight="589"/>
+	<SubTexture name="penfe angry idle0002" x="630" y="0" width="307" height="578" frameX="-4" frameY="-10" frameWidth="311" frameHeight="589"/>
+	<SubTexture name="penfe angry idle0003" x="942" y="0" width="307" height="577" frameX="-4" frameY="-11" frameWidth="311" frameHeight="589"/>
+	<SubTexture name="penfe angry idle0004" x="1254" y="0" width="307" height="576" frameX="-4" frameY="-12" frameWidth="311" frameHeight="589"/>
+	<SubTexture name="penfe angry idle0005" x="1566" y="0" width="309" height="583" frameX="-2" frameY="-5" frameWidth="311" frameHeight="589"/>
+	<SubTexture name="penfe angry idle0006" x="1880" y="0" width="310" height="586" frameX="-1" frameY="-2" frameWidth="311" frameHeight="589"/>
+	<SubTexture name="penfe angry idle0007" x="2195" y="0" width="311" height="587" frameX="0" frameY="-1" frameWidth="311" frameHeight="589"/>
+	<SubTexture name="penfe angry idle0008" x="0" y="0" width="311" height="588" frameX="0" frameY="0" frameWidth="311" frameHeight="589"/>
+	<SubTexture name="penfe angry idle0009" x="0" y="0" width="311" height="588" frameX="0" frameY="0" frameWidth="311" frameHeight="589"/>
+	<SubTexture name="penfe angry idle0010" x="0" y="0" width="311" height="588" frameX="0" frameY="0" frameWidth="311" frameHeight="589"/>
+	<SubTexture name="penfe angry idle0011" x="0" y="0" width="311" height="588" frameX="0" frameY="0" frameWidth="311" frameHeight="589"/>
+	<SubTexture name="penfe angry idle0012" x="0" y="0" width="311" height="588" frameX="0" frameY="0" frameWidth="311" frameHeight="589"/>
+	<SubTexture name="penfe angry idle0013" x="0" y="0" width="311" height="588" frameX="0" frameY="0" frameWidth="311" frameHeight="589"/>
+	<SubTexture name="penfe angry idle0014" x="0" y="0" width="311" height="588" frameX="0" frameY="0" frameWidth="311" frameHeight="589"/>
+	<SubTexture name="penfe angry idle0015" x="0" y="0" width="311" height="588" frameX="0" frameY="0" frameWidth="311" frameHeight="589"/>
+	<SubTexture name="penfe angry idle0016" x="316" y="0" width="309" height="583" frameX="-2" frameY="-6" frameWidth="311" frameHeight="589"/>
+	<SubTexture name="penfe angry idle0017" x="2511" y="0" width="307" height="578" frameX="-4" frameY="-10" frameWidth="311" frameHeight="589"/>
+	<SubTexture name="penfe angry idle0018" x="2823" y="0" width="307" height="577" frameX="-4" frameY="-11" frameWidth="311" frameHeight="589"/>
+	<SubTexture name="penfe angry idle0019" x="3135" y="0" width="307" height="576" frameX="-4" frameY="-12" frameWidth="311" frameHeight="589"/>
+	<SubTexture name="penfe angry idle0020" x="3447" y="0" width="309" height="583" frameX="-2" frameY="-5" frameWidth="311" frameHeight="589"/>
+	<SubTexture name="penfe angry idle0021" x="3761" y="0" width="310" height="586" frameX="-1" frameY="-2" frameWidth="311" frameHeight="589"/>
+	<SubTexture name="penfe angry idle0022" x="0" y="593" width="311" height="587" frameX="0" frameY="-1" frameWidth="311" frameHeight="589"/>
+	<SubTexture name="penfe angry idle0023" x="316" y="593" width="311" height="588" frameX="0" frameY="0" frameWidth="311" frameHeight="589"/>
+	<SubTexture name="penfe angry idle0024" x="316" y="593" width="311" height="588" frameX="0" frameY="0" frameWidth="311" frameHeight="589"/>
+	<SubTexture name="penfe angry idle0025" x="316" y="593" width="311" height="588" frameX="0" frameY="0" frameWidth="311" frameHeight="589"/>
+	<SubTexture name="penfe angry idle0026" x="0" y="0" width="311" height="588" frameX="0" frameY="0" frameWidth="311" frameHeight="589"/>
+	<SubTexture name="penfe angry idle0027" x="316" y="593" width="311" height="588" frameX="0" frameY="0" frameWidth="311" frameHeight="589"/>
+	<SubTexture name="penfe angry idle0028" x="316" y="593" width="311" height="588" frameX="0" frameY="0" frameWidth="311" frameHeight="589"/>
+	<SubTexture name="penfe angry idle0029" x="0" y="0" width="311" height="588" frameX="0" frameY="0" frameWidth="311" frameHeight="589"/>
+	<SubTexture name="penfe angry juan0000" x="632" y="593" width="283" height="581"/>
+	<SubTexture name="penfe angry juan0001" x="920" y="593" width="283" height="581"/>
+	<SubTexture name="penfe angry juan0002" x="1208" y="593" width="283" height="581"/>
+	<SubTexture name="penfe angry juan0003" x="1496" y="593" width="283" height="581"/>
+	<SubTexture name="penfe angry juan0004" x="1784" y="593" width="283" height="581"/>
+	<SubTexture name="penfe angry juan0005" x="2072" y="593" width="283" height="581"/>
+	<SubTexture name="penfe angry juan0006" x="2360" y="593" width="283" height="581"/>
+	<SubTexture name="penfe angry juan0007" x="632" y="593" width="283" height="581"/>
+	<SubTexture name="penfe angry left0000" x="2648" y="593" width="309" height="601"/>
+	<SubTexture name="penfe angry left0001" x="2648" y="593" width="309" height="601"/>
+	<SubTexture name="penfe angry left0002" x="2962" y="593" width="309" height="601"/>
+	<SubTexture name="penfe angry left0003" x="3276" y="593" width="309" height="601"/>
+	<SubTexture name="penfe angry left0004" x="2648" y="593" width="309" height="601"/>
+	<SubTexture name="penfe angry left0005" x="2648" y="593" width="309" height="601"/>
+	<SubTexture name="penfe angry left0006" x="2962" y="593" width="309" height="601"/>
+	<SubTexture name="penfe angry left0007" x="3276" y="593" width="309" height="601"/>
+	<SubTexture name="penfe angry right0000" x="3590" y="593" width="474" height="593"/>
+	<SubTexture name="penfe angry right0001" x="0" y="1199" width="474" height="593"/>
+	<SubTexture name="penfe angry right0002" x="479" y="1199" width="474" height="593"/>
+	<SubTexture name="penfe angry right0003" x="958" y="1199" width="474" height="593"/>
+	<SubTexture name="penfe angry right0004" x="3590" y="593" width="474" height="593"/>
+	<SubTexture name="penfe angry right0005" x="0" y="1199" width="474" height="593"/>
+	<SubTexture name="penfe angry right0006" x="479" y="1199" width="474" height="593"/>
+	<SubTexture name="penfe angry right0007" x="958" y="1199" width="474" height="593"/>
+	<SubTexture name="penfe angry up0000" x="1437" y="1199" width="316" height="599"/>
+	<SubTexture name="penfe angry up0001" x="1758" y="1199" width="316" height="599"/>
+	<SubTexture name="penfe angry up0002" x="2079" y="1199" width="316" height="599"/>
+	<SubTexture name="penfe angry up0003" x="2400" y="1199" width="316" height="599"/>
+	<SubTexture name="penfe angry up0004" x="1437" y="1199" width="316" height="599"/>
+	<SubTexture name="penfe angry up0005" x="1758" y="1199" width="316" height="599"/>
+	<SubTexture name="penfe angry up0006" x="2079" y="1199" width="316" height="599"/>
+	<SubTexture name="penfe angry up0007" x="2400" y="1199" width="316" height="599"/>
+</TextureAtlas>

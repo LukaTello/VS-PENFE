@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "XD",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pissed",
+			"text": "Maldito enano!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "penfe"
+		},
+		{
+			"expression": "pissed",
+			"text": "Te dije que me dejaras ganar!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "penfe"
+		},
+		{
+			"expression": "pissed",
+			"text": "Acaso eso no cabe en tu diminuta cabeza!?",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "penfe"
+		},
+		{
+			"expression": "talk",
+			"text": "Be-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pissed",
+			"text": "Nada de beeps!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "penfe"
+		},
+		{
+			"expression": "pissed",
+			"text": "Te vencere ahora y todos me tendran respeto!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "penfe"
+		},
+		{
+			"expression": "talk",
+			"text": "no",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "chad"
+		}
+	]
+}

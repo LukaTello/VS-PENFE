@@ -1,0 +1,123 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "We arrived, this is the address indicated on the letter",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+		{
+			"expression": "excited",
+			"text": "Bepp bop ska",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "How weird ... there are only people you have faced before, no one new",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "beeeeeep",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "So you finally arrived!",
+			"boxState": "normal",
+			"portrait": "penfe",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "I brought everyone to watch you lose!",
+			"boxState": "normal",
+			"portrait": "penfe",
+			"speed": 0.05
+		},
+		{
+			"expression": "pissed",
+			"text": "Bop ba?",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "fear",
+			"text": "It's me, penfe!",
+			"boxState": "normal",
+			"portrait": "penfe",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "?",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "shocked",
+			"text": "I am the one who sent you the letter.. I invited you to come here",
+			"boxState": "normal",
+			"portrait": "penfe",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "In the letter you said to be a strong and attractive man",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+		{
+			"expression": "shocked",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "penfe",
+			"speed": 0.05
+		},
+		{
+			"expression": "fear",
+			"text": "That's not important",
+			"boxState": "normal",
+			"portrait": "penfe",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Are you going to rap battle me now or are you going to stay there like a sissy!!?",
+			"boxState": "normal",
+			"portrait": "penfe",
+			"speed": 0.05
+		},
+		{
+			"expression": "excited",
+			"text": "Beep!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		}
+	]
+}

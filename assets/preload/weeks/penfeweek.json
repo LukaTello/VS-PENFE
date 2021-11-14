@@ -1,0 +1,57 @@
+{
+	"storyName": "Le Penfeyvis",
+	"hideFreeplay": false,
+	"weekBackground": "penfe",
+	"weekBefore": "week6",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"Penfe",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Penfenator",
+			"penfe",
+			[
+				255,
+				150,
+				0
+			]
+		],
+		[
+			"Brawl",
+			"penfe-fear",
+			[
+				255,
+				150,
+				0
+			]
+		],
+		[
+			"Tilted",
+			"penfe-angry",
+			[
+				255,
+				150,
+				0
+			]
+		],
+		[
+			"This is epic",
+			"penfe",
+			[
+				255,
+				150,
+				0
+			]
+		]
+	],
+	"weekName": "Penfe Week"
+}

@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"expression": "excited",
+			"text": "Beep bop xddd",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "shocked",
+			"text": "(oh no)",
+			"boxState": "normal",
+			"portrait": "penfe",
+			"speed": 0.05
+		},
+		{
+			"expression": "fear",
+			"text": "O-oye amigo, tranquilo",
+			"boxState": "normal",
+			"portrait": "penfe",
+			"speed": 0.05
+		},
+		{
+			"expression": "fear",
+			"text": "No tenemos que rapear en serio",
+			"boxState": "normal",
+			"portrait": "penfe",
+			"speed": 0.05
+		},
+		{
+			"expression": "fear",
+			"text": "Y-ya sabes es mas como un juego",
+			"boxState": "normal",
+			"portrait": "penfe",
+			"speed": 0.05
+		},
+		{
+			"expression": "fear",
+			"text": "Y tu debes dejarme ganar... e-entiendes?",
+			"boxState": "normal",
+			"portrait": "penfe",
+			"speed": 0.05
+		},
+		{
+			"expression": "pissed",
+			"text": "Beep beskonasnw1",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "fear",
+			"text": "V-vamos amiguito, solo dejame ganar",
+			"boxState": "normal",
+			"portrait": "penfe",
+			"speed": 0.05
+		},
+		{
+			"expression": "fear",
+			"text": "(por favor)",
+			"boxState": "normal",
+			"portrait": "penfe",
+			"speed": 0.05
+		}
+	]
+}

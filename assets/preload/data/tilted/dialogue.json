@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "XD",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pissed",
+			"text": "You fucking midget!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "penfe"
+		},
+		{
+			"expression": "pissed",
+			"text": "I just told you that i should win!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "penfe"
+		},
+		{
+			"expression": "pissed",
+			"text": "Doesn't that SIMPLE phrase fit in your tiny little head?!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "penfe"
+		},
+		{
+			"expression": "talk",
+			"text": "Be-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pissed",
+			"text": "No beeps!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "penfe"
+		},
+		{
+			"expression": "pissed",
+			"text": "You know what? This time i'll beat you so everyone will finally respect me. You get that?!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "penfe"
+		},
+		{
+			"expression": "talk",
+			"text": "no",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "chad"
+		}
+	]
+}

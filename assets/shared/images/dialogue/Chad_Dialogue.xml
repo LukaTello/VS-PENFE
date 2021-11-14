@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Chad_Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF CHAD0000" x="0" y="0" width="471" height="609"/>
+	<SubTexture name="BF CHAD0001" x="0" y="0" width="471" height="609"/>
+	<SubTexture name="BF CHAD0002" x="0" y="0" width="471" height="609"/>
+	<SubTexture name="BF CHAD0003" x="0" y="0" width="471" height="609"/>
+	<SubTexture name="BF CHAD0004" x="0" y="0" width="471" height="609"/>
+	<SubTexture name="BF CHAD0005" x="0" y="0" width="471" height="609"/>
+</TextureAtlas>

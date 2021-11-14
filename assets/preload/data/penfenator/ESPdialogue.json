@@ -1,0 +1,123 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Llegamos, esta es la direccion que indicaba la carta",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+		{
+			"expression": "excited",
+			"text": "Bepp bop ska",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Que raro... solo hay personas con las que ya te has enfrentado antes, nadie nuevo",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Beeeeeep",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Con que al fin llegas, boyfriend!",
+			"boxState": "normal",
+			"portrait": "penfe",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Traje a todos para que vean como pierdes ante mi!",
+			"boxState": "normal",
+			"portrait": "penfe",
+			"speed": 0.05
+		},
+		{
+			"expression": "pissed",
+			"text": "Bop ba?",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "fear",
+			"text": "Soy yo, penfe!",
+			"boxState": "normal",
+			"portrait": "penfe",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "?",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "shocked",
+			"text": "El que te envio la carta.. yo te invite a que vinieras aqui",
+			"boxState": "normal",
+			"portrait": "penfe",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "En la carta decias que eras un hombre fuerte y atractivo",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+		{
+			"expression": "shocked",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "penfe",
+			"speed": 0.05
+		},
+		{
+			"expression": "fear",
+			"text": "Eso no es importante",
+			"boxState": "normal",
+			"portrait": "penfe",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Vas a rapear, boyfriend, o te vas a quedar ahi como una mariquita!!?",
+			"boxState": "normal",
+			"portrait": "penfe",
+			"speed": 0.05
+		},
+		{
+			"expression": "excited",
+			"text": "Beep!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		}
+	]
+}

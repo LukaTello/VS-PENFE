@@ -1,0 +1,95 @@
+{
+	"dialogue": [
+		{
+			"expression": "sad",
+			"text": "Alright, alright... It's okay. You did it you won. Was it worth it?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "penfe"
+		},
+		{
+			"expression": "sad",
+			"text": "They all left",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "penfe"
+		},
+		{
+			"expression": "sad",
+			"text": "All I ever wanted was friends",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "penfe"
+		},
+		{
+			"expression": "sad",
+			"text": "And this was the only way",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "penfe"
+		},
+		{
+			"expression": "shocked",
+			"text": "Bep bo",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "sad",
+			"text": "Yeah, I understand...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "penfe"
+		},
+		{
+			"expression": "sad",
+			"text": "That wasn't the way, was it?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "penfe"
+		},
+		{
+			"expression": "talk",
+			"text": "beee",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "sad",
+			"text": "Well i take back everything i said",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "penfe"
+		},
+		{
+			"expression": "talk",
+			"text": "Fuck everyone else, they miss this",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "penfe"
+		},
+		{
+			"expression": "talk",
+			"text": "So let's make this battle a little more...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "penfe"
+		},
+		{
+			"expression": "talk",
+			"text": "EPIC",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "penfe"
+		},
+		{
+			"expression": "excited",
+			"text": "beep!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}
